@@ -47,5 +47,6 @@ def max_marks(list1):
 <img width="1144" height="364" alt="Screenshot 2026-06-01 133354" src="https://github.com/user-attachments/assets/be5f0ce2-9a20-457d-9902-840895883d3e" />
 <img width="1127" height="365" alt="image" src="https://github.com/user-attachments/assets/8e0d2999-d6ee-45ed-9f18-6fe0ca644056" />
 <img width="1154" height="356" alt="image" src="https://github.com/user-attachments/assets/a6a3ce67-b775-420c-b74e-c8bfb29df7f8" />
+
 ## Result 
 Thus the program executed successfully
